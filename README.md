@@ -12,3 +12,10 @@ npm i
 npm run dev 
 
 ```
+
+
+## content of the project setup
+  react + react-dom with vite 
+  react-router-dom 
+  tailwindcss 
+  shadcn ui 
